@@ -76,4 +76,13 @@ return [
     "v_butt"      => "Buttons Color",
     "v_back"      => "Background Color",
     "save_change" => "Save Changes"
+    "channel_ver" => "Channel Version"
+    "channel_10" =>  "Channel 1.0"
+    "channel_20" =>  "Channel 2.0"
+    "channel_30" =>  "Cosmic Panda (BETA)"
+    "cha_30desc" =>  "- The layout from YouTube 2012-2013
+                     - Big Focus on Videos and Playlists
+                     - Very Consistent across different channels
+                     - Easy to manage"
+    "channel_up" =>  "Switch"
 ];
