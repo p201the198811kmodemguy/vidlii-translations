@@ -43,4 +43,13 @@ return [
     "prvvid"      => "Video privado",
     "prtn"        => "Compañero",
     "vrfd"        => "Verificado"
+        "channel_ver" => "Channel Version"
+    "channel_10" =>  "Canal 1.0"
+    "channel_20" =>  "Canal 2.0"
+    "channel_30" =>  "Cosmic Panda (BETA)"
+    "cha_30desc" =>  "- La interfaz de YouTube 2012-2013
+                     - Gran Enfoque Videos y Listas De Reproducciones
+                     - Muy Cosistente para acrovesar distintos canales
+                     - Facil De Manejar"
+    "channel_up" =>  "Cambiar"
 ];
